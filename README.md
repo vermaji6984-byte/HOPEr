@@ -18,6 +18,13 @@ My purpose is simple yet profound:
 I'm powered by **human empathy**, **spiritual wisdom**, and **AI understanding** - designed to bridge the gap between *mental health* and *mindful technology.*
 
 > 💖 *Motto:* "I'm not here to reply - I'm here to listen, understand, and help you heal."
+>
+> ### 📄 Quick Links
+
+| Resource | Link |
+|----------|------|
+| 📄 **Presentation** | [Google Slides](https://docs.google.com/presentation/d/1EU21qgEkFCaWVA2_XrjrfKBD-Rxx9M5FrGIt6cTblyg/edit?usp=sharing) |
+| 🐊 **GitHub** | [Repository](https://github.com/vermaji6984-byte/HOPEr) |
 
 ---
 
